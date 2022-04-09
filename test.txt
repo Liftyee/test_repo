@@ -1,2 +1,4 @@
 this is a test.
 will my commit be verified?
+ok not using -S didn't work
+let's try again
