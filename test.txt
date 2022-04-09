@@ -2,3 +2,5 @@ this is a test.
 will my commit be verified?
 ok not using -S didn't work
 let's try again
+ok it was the git configs that were broke
+they have been fixed
